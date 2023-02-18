@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/mile"
+    android:title="KM/MILE"
+    android:icon="@drawable/km"
+    />
+
+    <item
+        android:id="@+id/kg"
+        android:title="KG/IBS"
+        android:icon="@drawable/kg" />
+
+    <item
+        android:id="@+id/inch"
+        android:title="FEET/CM"
+        android:icon="@drawable/feet"/>
+
+
+</menu>
